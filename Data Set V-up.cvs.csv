@@ -1,0 +1,121 @@
+No. ,Sales Rep. ,Revision,Reason for Revision,PIC of Revisions,Take order,Verify order,Pick order,"Order, invoice & product matching",Deliver order,Total
+1,Frank,Y,Volume Change ,Alex,0.2,0.1,2.2,3.2,0,5.6
+2,Natalie,Y,Price Change ,Maria,0,0.2,3.1,3.9,0,7.3
+3,Michael,Y,Destination Change,Alex,0.1,0.2,2.2,3.6,0,6.1
+4,Claude,Y,No inventory ,Maria,0.2,0.2,7.3,3.9,0,11.6
+5,Natalie,Y,Price Change ,Maria,0.1,0.1,1.9,5.1,0,7.2
+6,Michael,Y,Destination Change,Alex,0,0.3,1.9,2.9,0,5.1
+7,Frank,Y,Volume Change ,Alex,0.2,0,3,3.8,0,7.1
+8,Claude,Y,Price Change ,Maria,0.1,0.2,3.6,4.2,0,8
+9,Michael,N,,,0.2,0.1,2.5,3.1,0,5.9
+10,Claude,Y,No inventory ,Maria,0.2,0.1,4.5,3.7,0,8.5
+11,Natalie,Y,Price Change ,Maria,0.2,0.1,3.8,4.4,0,8.5
+12,Claude,N,,,0.2,0,2.6,2.5,0,5.3
+13,Frank,Y,Volume Change ,Alex,0.2,0,2.9,2.3,0,5.4
+14,Claude,Y,Price Change ,Maria,0.1,0,3,4.1,0,7.2
+15,Natalie,Y,Destination Change,Maria,0.2,0,1.9,4.4,0,6.5
+16,Frank,Y,Volume Change ,Alex,0.2,0.1,3.4,3.5,0,7.3
+17,Claude,Y,Price Change ,Maria,0.2,0.1,3.1,5.1,0,8.4
+18,Michael,Y,Destination Change,Alex,0.2,0.1,2.9,2,0.2,5.4
+19,Michael,Y,Volume Change ,Alex,0.1,0,2.5,3.2,0,5.8
+20,Frank,N,,,0.2,0.1,2.1,2.8,0,5.2
+21,Natalie,Y,Destination Change,Maria,0.2,0,2.4,3.3,0,6
+22,Frank,Y,Volume Change ,Alex,0.2,0.2,2.7,3.7,0,6.9
+23,Claude,N,,,0.1,0,3,2.9,0,6.1
+24,Michael,Y,Destination Change,Alex,0.2,0.1,2.6,2.6,0,5.5
+25,Michael,Y,Volume Change ,Alex,0.2,0,2.8,3.1,0,6.1
+26,Frank,Y,Delivery Date Change ,Alex,0.1,0.2,3.6,3.8,0,7.7
+27,Natalie,Y,Destination Change,Maria,0.2,0.1,2.7,2.9,0,5.8
+28,Michael,Y,Volume Change ,Alex,0.3,0.3,2.9,2.9,0,6.3
+29,Claude,Y,Price Change ,Maria,0.3,0.3,3,4.2,0,7.7
+30,Natalie,Y,Destination Change,Maria,0.1,0.3,2.6,3.4,0,6.4
+31,Frank,N,,,0.2,0,2.4,3.5,0,6.1
+32,Frank,Y,Delivery Date Change ,Alex,0.2,0.1,2.3,4.1,0,6.7
+33,Claude,Y,Destination Change,Maria,0.2,0.2,1.9,2.9,0,5.3
+34,Natalie,N,,,0.1,0.3,2.5,4.8,0,7.6
+35,Claude,Y,Price Change ,Maria,0,0.1,2,3.8,0,5.9
+36,Natalie,Y,Destination Change,Maria,0.2,0,2.5,1.9,0,4.6
+37,Natalie,Y,Volume Change ,Maria,0.1,0.1,2.5,2.4,0,5.1
+38,Frank,Y,Delivery Date Change ,Alex,0.2,0.1,2.6,3.2,0.2,6.3
+39,Claude,Y,Destination Change,Maria,0.2,0,2.3,3.9,0,6.4
+40,Michael,Y,Volume Change ,Alex,0.2,0.2,2.2,3.7,0,6.3
+41,Frank,Y,Delivery Date Change ,Alex,0.3,0.1,2.4,3,0,5.8
+42,Claude,Y,Destination Change,Maria,0.1,0,2.2,4.3,0,6.7
+43,Natalie,Y,Volume Change ,Maria,0,0,2.9,3.5,0,6.4
+44,Michael,Y,Delivery Date Change ,Alex,0,0.1,1.9,2.8,0,4.8
+45,Michael,N,,,0.1,0.2,2.4,2,0,4.8
+46,Michael,Y,Volume Change ,Alex,0.2,0.3,3.1,4.8,0,8.4
+47,Frank,Y,Delivery Date Change ,Alex,0.1,0.2,2.4,2.2,0,4.9
+48,Claude,N,,,0.2,0.1,2.9,5.8,0,9
+49,Natalie,Y,Volume Change ,Maria,0.1,0.2,3.3,4.3,0,7.8
+50,Michael,Y,Delivery Date Change ,Alex,0.1,0.2,2.4,4,0,6.7
+51,Frank,N,,,0.1,0.2,2.1,3.8,0,6.2
+52,Natalie,Y,Volume Change ,Maria,0.3,0.1,2.7,1.8,0,4.8
+53,Michael,Y,Delivery Date Change ,Alex,0.2,0.3,2.5,2,0,5.1
+54,Claude,Y,Destination Change,Maria,0.1,0.2,3.5,3,0,6.7
+55,Claude,Y,Volume Change ,Maria,0.3,0.2,2.7,2.6,0,5.8
+56,Michael,N,,,0,0.3,1.2,2.9,0,4.5
+57,Natalie,N,,,0.2,0,3,1.8,0,5
+58,Natalie,Y,Volume Change ,Maria,0.2,0,1.5,3.1,0.1,5
+59,Claude,N,,,0.2,0.2,1.9,3.8,0,6.2
+60,Claude,Y,Destination Change,Maria,0.2,0.1,3.6,3.4,0,7.3
+61,Claude,Y,Volume Change ,Maria,0.2,0.3,2.7,4.5,0,7.7
+62,Natalie,Y,Delivery Date Change ,Maria,0.1,0.2,2.1,3.7,0,6
+63,Frank,Y,No inventory ,Alex,0.1,0.1,5.7,3.6,0,9.4
+64,Claude,Y,Volume Change ,Maria,0.2,0.1,2.5,2.7,0,5.5
+65,Michael,Y,Delivery Date Change ,Alex,0.2,0.1,2.6,4.9,0,7.8
+66,Frank,Y,No inventory ,Alex,0.2,0,2.3,3.3,0,5.7
+67,Frank,N,,,0.2,0.3,2.2,3.1,0,5.8
+68,Natalie,Y,Delivery Date Change ,Maria,0.1,0,3,3,0,6.1
+69,Frank,Y,No inventory ,Alex,0.3,0,5.6,3.8,0,9.6
+70,Natalie,N,,,0.2,0,2,4.2,0,6.4
+71,Michael,Y,Delivery Date Change ,Alex,0.1,0.3,2.3,2.1,0,4.9
+72,Frank,Y,No inventory ,Alex,0.1,0.2,6,3.1,0,9.3
+73,Frank,Y,Price Change ,Alex,0.1,0.2,1.7,4.2,0,6.1
+74,Natalie,Y,Delivery Date Change ,Maria,0.2,0.2,2.4,4.9,0,7.8
+75,Frank,Y,No inventory ,Alex,0.2,0.1,3.6,2.9,0,6.8
+76,Claude,Y,Volume Change ,Maria,0.3,0.1,3,2.7,0,6.1
+77,Natalie,Y,Delivery Date Change ,Maria,0.1,0,2.5,3.4,0,6
+78,Michael,Y,No inventory ,Alex,0.3,0.1,7.1,3.8,0.2,11.4
+79,Frank,Y,Price Change ,Alex,0.2,0.2,2.3,4.7,0,7.3
+80,Claude,Y,Delivery Date Change ,Maria,0.1,0.2,2.3,2.6,0,5.2
+81,Michael,N,,,0.2,0.1,1.9,3.9,0,6
+82,Claude,Y,Volume Change ,Maria,0,0.2,2.4,1.2,0,3.7
+83,Natalie,Y,Delivery Date Change ,Maria,0.1,0,2.4,2.7,0,5.2
+84,Michael,Y,No inventory ,Alex,0,0.1,4.7,2.8,0,7.6
+85,Frank,Y,Price Change ,Alex,0.1,0,4.3,3.8,0,8.2
+86,Claude,Y,Delivery Date Change ,Maria,0.2,0.1,3.5,2.5,0,6.3
+87,Michael,Y,No inventory ,Alex,0,0,6.8,4.2,0,11
+88,Frank,Y,Price Change ,Alex,0.1,0,2.4,3.9,0,6.4
+89,Claude,Y,Delivery Date Change ,Maria,0,0.2,3.1,4.3,0,7.6
+90,Michael,Y,No inventory ,Alex,0.1,0.3,6,4.3,0,10.5
+91,Michael,Y,Price Change ,Alex,0.1,0.3,2.5,3.6,0,6.4
+92,Michael,N,,,0,0.1,2.7,2.3,0,5
+93,Michael,Y,No inventory ,Alex,0.2,0.2,6.1,3.1,0,9.5
+94,Frank,Y,Price Change ,Alex,0.2,0.1,2.8,4.4,0,7.5
+95,Claude,N,,,0.1,0.2,2.1,3.3,0,5.7
+96,Natalie,Y,No inventory ,Maria,0.3,0.3,7.1,3.3,0,11
+97,Michael,Y,Price Change ,Alex,0.1,0,3.3,4.4,0,7.8
+98,Frank,Y,Destination Change,Alex,0.2,0,2.6,4.7,0.1,7.7
+99,Natalie,Y,No inventory ,Maria,0.1,0.3,6.4,1.8,0,8.6
+100,Michael,Y,Price Change ,Alex,0.3,0,2.6,2.5,0,5.3
+101,Claude,Y,Delivery Date Change ,Maria,0,0.1,2.7,3.5,0,6.3
+102,Natalie,Y,No inventory ,Maria,0.1,0,9.3,3.2,0,12.7
+103,Frank,N,,,0.2,0.3,1.4,3.8,0,5.7
+104,Frank,Y,Destination Change,Alex,0.2,0.3,3.7,2.9,0,7.1
+105,Natalie,Y,No inventory ,Maria,0.1,0.2,9.2,3.6,0,13.2
+106,Natalie,N,,,0.2,0.1,2.1,3.8,0,6.1
+107,Claude,Y,Delivery Date Change ,Maria,0.2,0.3,2,3.5,0,6.1
+108,Claude,Y,No inventory ,Maria,0.3,0.3,6.1,3.8,0,10.4
+109,Natalie,Y,Price Change ,Maria,0.2,0.2,3,3.2,0,6.6
+110,Frank,Y,Destination Change,Alex,0.1,0.2,3.2,3.2,0,6.8
+111,Natalie,Y,No inventory ,Maria,0.3,0.1,7.6,2.9,0,10.8
+112,Michael,Y,Price Change ,Alex,0.2,0.1,3.5,3.8,0,7.6
+113,Frank,Y,Destination Change,Alex,0.2,0.3,3,3.2,0,6.7
+114,Claude,Y,No inventory ,Maria,0.1,0.1,9.1,3.7,0,13
+115,Natalie,Y,Price Change ,Maria,0.1,0.1,2.8,3,0,6
+116,Michael,Y,Destination Change,Alex,0,0.1,1.7,3.3,0,5.1
+117,Natalie,N,,,0.2,0,2,3,0,5.3
+118,Michael,Y,Price Change ,Alex,0.2,0.1,2.5,3.6,0.2,6.6
+119,Frank,Y,Destination Change,Alex,0.2,0.1,2.6,3.7,0,6.6
+120,Claude,Y,No inventory ,Maria,0,0.1,7.6,3.3,0,11.1
